@@ -1,4 +1,4 @@
 Rest
 ====
 
-Rest
+A restful PHP framework.
