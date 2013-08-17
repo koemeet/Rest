@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/Models/Quote
+END
+Phone.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/Models/Quote/Phone.php
+END
+Group.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/Models/Quote/Group.php
+END
+User.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/Models/Quote/User.php
+END
+Address.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/Models/Quote/Address.php
+END
+SimpleEntity.php
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/Models/Quote/SimpleEntity.php
+END

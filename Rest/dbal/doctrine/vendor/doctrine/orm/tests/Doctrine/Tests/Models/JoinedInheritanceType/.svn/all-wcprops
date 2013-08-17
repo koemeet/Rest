@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/Models/JoinedInheritanceType
+END
+ChildClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/Models/JoinedInheritanceType/ChildClass.php
+END
+RootClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/Models/JoinedInheritanceType/RootClass.php
+END
+AnotherChildClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/Models/JoinedInheritanceType/AnotherChildClass.php
+END

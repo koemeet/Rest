@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/Models/DDC869
+END
+DDC869ChequePayment.php
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/Models/DDC869/DDC869ChequePayment.php
+END
+DDC869Payment.php
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/Models/DDC869/DDC869Payment.php
+END
+DDC869PaymentRepository.php
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/Models/DDC869/DDC869PaymentRepository.php
+END
+DDC869CreditCardPayment.php
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/Models/DDC869/DDC869CreditCardPayment.php
+END

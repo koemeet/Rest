@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/composer.json
+END
+cli-config.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/cli-config.php
+END
+Bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/Bootstrap.php
+END
+composer.lock
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/composer.lock
+END

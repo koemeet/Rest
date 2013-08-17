@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/lib/Doctrine/DBAL/Sharding
+END
+PoolingShardConnection.php
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/lib/Doctrine/DBAL/Sharding/PoolingShardConnection.php
+END
+ShardManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/lib/Doctrine/DBAL/Sharding/ShardManager.php
+END
+ShardingException.php
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/lib/Doctrine/DBAL/Sharding/ShardingException.php
+END
+PoolingShardManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/lib/Doctrine/DBAL/Sharding/PoolingShardManager.php
+END

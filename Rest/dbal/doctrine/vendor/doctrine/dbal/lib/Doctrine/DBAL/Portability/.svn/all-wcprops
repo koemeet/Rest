@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/lib/Doctrine/DBAL/Portability
+END
+Connection.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/lib/Doctrine/DBAL/Portability/Connection.php
+END
+Statement.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/lib/Doctrine/DBAL/Portability/Statement.php
+END

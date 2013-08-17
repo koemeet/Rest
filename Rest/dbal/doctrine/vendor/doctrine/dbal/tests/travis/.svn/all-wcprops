@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/tests/travis
+END
+mysqli.travis.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/tests/travis/mysqli.travis.xml
+END
+sqlite.travis.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/tests/travis/sqlite.travis.xml
+END
+mysql.travis.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/tests/travis/mysql.travis.xml
+END
+pgsql.travis.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/tests/travis/pgsql.travis.xml
+END

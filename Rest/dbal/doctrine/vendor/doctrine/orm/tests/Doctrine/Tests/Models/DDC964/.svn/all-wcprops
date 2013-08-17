@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/Models/DDC964
+END
+DDC964Group.php
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/Models/DDC964/DDC964Group.php
+END
+DDC964User.php
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/Models/DDC964/DDC964User.php
+END
+DDC964Address.php
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/Models/DDC964/DDC964Address.php
+END
+DDC964Guest.php
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/Models/DDC964/DDC964Guest.php
+END
+DDC964Admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/Models/DDC964/DDC964Admin.php
+END

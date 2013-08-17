@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/Models/ECommerce
+END
+ECommerceCart.php
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/Models/ECommerce/ECommerceCart.php
+END
+ECommerceFeature.php
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/Models/ECommerce/ECommerceFeature.php
+END
+ECommerceCategory.php
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/Models/ECommerce/ECommerceCategory.php
+END
+ECommerceProduct.php
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/Models/ECommerce/ECommerceProduct.php
+END
+ECommerceCustomer.php
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/Models/ECommerce/ECommerceCustomer.php
+END
+ECommerceShipping.php
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/Models/ECommerce/ECommerceShipping.php
+END

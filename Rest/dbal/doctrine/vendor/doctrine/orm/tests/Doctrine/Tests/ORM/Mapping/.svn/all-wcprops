@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/ORM/Mapping
+END
+YamlMappingDriverTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/ORM/Mapping/YamlMappingDriverTest.php
+END
+AbstractMappingDriverTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/ORM/Mapping/AbstractMappingDriverTest.php
+END
+NamingStrategyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/ORM/Mapping/NamingStrategyTest.php
+END
+ClassMetadataBuilderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/ORM/Mapping/ClassMetadataBuilderTest.php
+END
+ClassMetadataFactoryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/ORM/Mapping/ClassMetadataFactoryTest.php
+END
+PHPMappingDriverTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/ORM/Mapping/PHPMappingDriverTest.php
+END
+QuoteStrategyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/ORM/Mapping/QuoteStrategyTest.php
+END
+ClassMetadataTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/ORM/Mapping/ClassMetadataTest.php
+END
+AnnotationDriverTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/ORM/Mapping/AnnotationDriverTest.php
+END
+BasicInheritanceMappingTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/ORM/Mapping/BasicInheritanceMappingTest.php
+END
+StaticPHPMappingDriverTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/ORM/Mapping/StaticPHPMappingDriverTest.php
+END
+ClassMetadataLoadEventTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/ORM/Mapping/ClassMetadataLoadEventTest.php
+END
+XmlMappingDriverTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/ORM/Mapping/XmlMappingDriverTest.php
+END

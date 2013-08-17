@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/Models/Legacy
+END
+LegacyCar.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/Models/Legacy/LegacyCar.php
+END
+LegacyUserReference.php
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/Models/Legacy/LegacyUserReference.php
+END
+LegacyUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/Models/Legacy/LegacyUser.php
+END
+LegacyArticle.php
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/Models/Legacy/LegacyArticle.php
+END

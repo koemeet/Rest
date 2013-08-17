@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/tests/Doctrine/Tests/Mocks
+END
+ConnectionMock.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/tests/Doctrine/Tests/Mocks/ConnectionMock.php
+END
+HydratorMockStatement.php
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/tests/Doctrine/Tests/Mocks/HydratorMockStatement.php
+END
+TaskMock.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/tests/Doctrine/Tests/Mocks/TaskMock.php
+END
+DatabasePlatformMock.php
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/tests/Doctrine/Tests/Mocks/DatabasePlatformMock.php
+END
+DriverConnectionMock.php
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/tests/Doctrine/Tests/Mocks/DriverConnectionMock.php
+END
+DriverMock.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/tests/Doctrine/Tests/Mocks/DriverMock.php
+END
+SchemaManagerMock.php
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/tests/Doctrine/Tests/Mocks/SchemaManagerMock.php
+END

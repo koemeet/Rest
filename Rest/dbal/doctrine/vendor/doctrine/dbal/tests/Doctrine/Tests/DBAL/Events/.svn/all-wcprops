@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/tests/Doctrine/Tests/DBAL/Events
+END
+MysqlSessionInitTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/tests/Doctrine/Tests/DBAL/Events/MysqlSessionInitTest.php
+END
+OracleSessionInitTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/tests/Doctrine/Tests/DBAL/Events/OracleSessionInitTest.php
+END
+SQLSessionInitTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/tests/Doctrine/Tests/DBAL/Events/SQLSessionInitTest.php
+END

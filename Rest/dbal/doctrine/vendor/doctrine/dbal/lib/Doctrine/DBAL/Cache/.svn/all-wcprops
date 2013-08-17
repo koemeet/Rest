@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/lib/Doctrine/DBAL/Cache
+END
+QueryCacheProfile.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/lib/Doctrine/DBAL/Cache/QueryCacheProfile.php
+END
+CacheException.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/lib/Doctrine/DBAL/Cache/CacheException.php
+END
+ArrayStatement.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/lib/Doctrine/DBAL/Cache/ArrayStatement.php
+END
+ResultCacheStatement.php
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/lib/Doctrine/DBAL/Cache/ResultCacheStatement.php
+END

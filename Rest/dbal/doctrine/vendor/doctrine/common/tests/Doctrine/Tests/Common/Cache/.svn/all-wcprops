@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Cache
+END
+MemcachedCacheTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Cache/MemcachedCacheTest.php
+END
+RedisCacheTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Cache/RedisCacheTest.php
+END
+PhpFileCacheTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Cache/PhpFileCacheTest.php
+END
+ZendDataCacheTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Cache/ZendDataCacheTest.php
+END
+XcacheCacheTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Cache/XcacheCacheTest.php
+END
+ArrayCacheTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Cache/ArrayCacheTest.php
+END
+CacheTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Cache/CacheTest.php
+END
+WinCacheCacheTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Cache/WinCacheCacheTest.php
+END
+MemcacheCacheTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Cache/MemcacheCacheTest.php
+END
+ApcCacheTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Cache/ApcCacheTest.php
+END
+FilesystemCacheTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Cache/FilesystemCacheTest.php
+END

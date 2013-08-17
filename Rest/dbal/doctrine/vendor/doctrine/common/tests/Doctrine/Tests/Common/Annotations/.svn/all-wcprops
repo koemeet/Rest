@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Annotations
+END
+CachedReaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Annotations/CachedReaderTest.php
+END
+AnnotationReaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Annotations/AnnotationReaderTest.php
+END
+DummyClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Annotations/DummyClass.php
+END
+PerformanceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Annotations/PerformanceTest.php
+END
+DocParserTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Annotations/DocParserTest.php
+END
+PhpParserTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Annotations/PhpParserTest.php
+END
+DocLexerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Annotations/DocLexerTest.php
+END
+TopLevelAnnotation.php
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Annotations/TopLevelAnnotation.php
+END
+AbstractReaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Annotations/AbstractReaderTest.php
+END
+FileCacheReaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Annotations/FileCacheReaderTest.php
+END
+SimpleAnnotationReaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Annotations/SimpleAnnotationReaderTest.php
+END

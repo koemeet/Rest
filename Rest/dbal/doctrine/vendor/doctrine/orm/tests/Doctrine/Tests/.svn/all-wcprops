@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests
+END
+OrmTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/OrmTestCase.php
+END
+OrmPerformanceTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/OrmPerformanceTestCase.php
+END
+OrmFunctionalTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/OrmFunctionalTestCase.php
+END
+TestUtil.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/TestUtil.php
+END
+DbalTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/DbalTestCase.php
+END
+DbalFunctionalTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/DbalFunctionalTestCase.php
+END
+DoctrineTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/DoctrineTestCase.php
+END
+TestInit.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/tests/Doctrine/Tests/TestInit.php
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/tests/Doctrine/Tests/DBAL/Sharding/SQLAzure
+END
+AbstractTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/tests/Doctrine/Tests/DBAL/Sharding/SQLAzure/AbstractTestCase.php
+END
+FunctionalTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/tests/Doctrine/Tests/DBAL/Sharding/SQLAzure/FunctionalTest.php
+END
+SQLAzureShardManagerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/tests/Doctrine/Tests/DBAL/Sharding/SQLAzure/SQLAzureShardManagerTest.php
+END
+MultiTenantVisitorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/tests/Doctrine/Tests/DBAL/Sharding/SQLAzure/MultiTenantVisitorTest.php
+END
+SQLAzureFederationsSynchronizerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/tests/Doctrine/Tests/DBAL/Sharding/SQLAzure/SQLAzureFederationsSynchronizerTest.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/Mysqli
+END
+Driver.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/Mysqli/Driver.php
+END
+MysqliException.php
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/Mysqli/MysqliException.php
+END
+MysqliConnection.php
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/Mysqli/MysqliConnection.php
+END
+MysqliStatement.php
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/Mysqli/MysqliStatement.php
+END

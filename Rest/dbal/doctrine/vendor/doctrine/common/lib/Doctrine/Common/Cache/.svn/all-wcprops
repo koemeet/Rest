@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/lib/Doctrine/Common/Cache
+END
+MemcachedCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/lib/Doctrine/Common/Cache/MemcachedCache.php
+END
+RedisCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/lib/Doctrine/Common/Cache/RedisCache.php
+END
+PhpFileCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/lib/Doctrine/Common/Cache/PhpFileCache.php
+END
+CacheProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/lib/Doctrine/Common/Cache/CacheProvider.php
+END
+ZendDataCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/lib/Doctrine/Common/Cache/ZendDataCache.php
+END
+XcacheCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/lib/Doctrine/Common/Cache/XcacheCache.php
+END
+ArrayCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/lib/Doctrine/Common/Cache/ArrayCache.php
+END
+Cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/lib/Doctrine/Common/Cache/Cache.php
+END
+FileCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/lib/Doctrine/Common/Cache/FileCache.php
+END
+WinCacheCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/lib/Doctrine/Common/Cache/WinCacheCache.php
+END
+MemcacheCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/lib/Doctrine/Common/Cache/MemcacheCache.php
+END
+ApcCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/lib/Doctrine/Common/Cache/ApcCache.php
+END
+FilesystemCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/lib/Doctrine/Common/Cache/FilesystemCache.php
+END

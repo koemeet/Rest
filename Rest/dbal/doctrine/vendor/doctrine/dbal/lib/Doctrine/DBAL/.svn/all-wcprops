@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/lib/Doctrine/DBAL
+END
+Driver.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver.php
+END
+SQLParserUtilsException.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/lib/Doctrine/DBAL/SQLParserUtilsException.php
+END
+LockMode.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/lib/Doctrine/DBAL/LockMode.php
+END
+SQLParserUtils.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/lib/Doctrine/DBAL/SQLParserUtils.php
+END
+ConnectionException.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/lib/Doctrine/DBAL/ConnectionException.php
+END
+Connection.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php
+END
+DBALException.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/lib/Doctrine/DBAL/DBALException.php
+END
+Statement.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/lib/Doctrine/DBAL/Statement.php
+END
+Events.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/lib/Doctrine/DBAL/Events.php
+END
+Version.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/lib/Doctrine/DBAL/Version.php
+END
+DriverManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/lib/Doctrine/DBAL/DriverManager.php
+END
+Configuration.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/lib/Doctrine/DBAL/Configuration.php
+END
+README.markdown
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/lib/Doctrine/DBAL/README.markdown
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/composer
+END
+autoload_classmap.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/composer/autoload_classmap.php
+END
+autoload_real.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/composer/autoload_real.php
+END
+ClassLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/composer/ClassLoader.php
+END
+installed.json
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/composer/installed.json
+END
+autoload_namespaces.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/composer/autoload_namespaces.php
+END

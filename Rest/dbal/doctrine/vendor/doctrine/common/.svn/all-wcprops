@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/composer.json
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/LICENSE
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/.gitignore
+END
+.travis.yml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/.travis.yml
+END
+phpunit.xml.dist
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/phpunit.xml.dist
+END
+.gitmodules
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/.gitmodules
+END
+UPGRADE_TO_2_1
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/UPGRADE_TO_2_1
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/build.properties
+END
+UPGRADE_TO_2_2
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/UPGRADE_TO_2_2
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/README.md
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/build.xml
+END

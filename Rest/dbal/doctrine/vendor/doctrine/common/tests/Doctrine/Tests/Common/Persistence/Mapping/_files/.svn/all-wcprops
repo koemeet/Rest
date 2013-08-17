@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Persistence/Mapping/_files
+END
+global.yml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Persistence/Mapping/_files/global.yml
+END
+stdClass.yml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Persistence/Mapping/_files/stdClass.yml
+END
+TestEntity.php
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Persistence/Mapping/_files/TestEntity.php
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/composer.json
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/LICENSE
+END
+run-all.sh
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/run-all.sh
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/.gitignore
+END
+.travis.yml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/.travis.yml
+END
+UPGRADE.md
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/UPGRADE.md
+END
+build.properties.dev
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/build.properties.dev
+END
+phpunit.xml.dist
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/phpunit.xml.dist
+END
+.gitmodules
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/.gitmodules
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/build.properties
+END
+doctrine-mapping.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/doctrine-mapping.xsd
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/build.xml
+END
+README.markdown
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/orm/README.markdown
+END

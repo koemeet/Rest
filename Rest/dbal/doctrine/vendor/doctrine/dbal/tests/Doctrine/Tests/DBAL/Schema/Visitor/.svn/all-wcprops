@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/tests/Doctrine/Tests/DBAL/Schema/Visitor
+END
+RemoveNamespacedAssetsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/tests/Doctrine/Tests/DBAL/Schema/Visitor/RemoveNamespacedAssetsTest.php
+END
+SchemaSqlCollectorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/tests/Doctrine/Tests/DBAL/Schema/Visitor/SchemaSqlCollectorTest.php
+END

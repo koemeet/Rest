@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Annotations/Fixtures/Annotation
+END
+Template.php
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Annotations/Fixtures/Annotation/Template.php
+END
+AnnotWithDefaultValue.php
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Annotations/Fixtures/Annotation/AnnotWithDefaultValue.php
+END
+Route.php
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Annotations/Fixtures/Annotation/Route.php
+END
+Version.php
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Annotations/Fixtures/Annotation/Version.php
+END
+Secure.php
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Annotations/Fixtures/Annotation/Secure.php
+END
+Autoload.php
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Annotations/Fixtures/Annotation/Autoload.php
+END

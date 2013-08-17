@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Reflection
+END
+DeeperNamespaceParent.php
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Reflection/DeeperNamespaceParent.php
+END
+FullyClassifiedParent.php
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Reflection/FullyClassifiedParent.php
+END
+SameNamespaceParent.php
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Reflection/SameNamespaceParent.php
+END
+StaticReflectionParserTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Reflection/StaticReflectionParserTest.php
+END
+NoParent.php
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Reflection/NoParent.php
+END
+UseParent.php
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/common/tests/Doctrine/Tests/Common/Reflection/UseParent.php
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/tests/Doctrine/Tests/DBAL/Schema/Platforms
+END
+MySQLSchemaTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/mas/!svn/ver/13856/trunk/customers/mobstar/mobstar_api/web/Rest/dbal/doctrine/vendor/doctrine/dbal/tests/Doctrine/Tests/DBAL/Schema/Platforms/MySQLSchemaTest.php
+END
